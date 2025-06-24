@@ -22,6 +22,8 @@
   Libraries: scikit-learn, pandas, matplotlib (optional for visuals)
 
 *OUTPUT*:
+![Image](https://github.com/user-attachments/assets/520b411e-9bc9-425d-984a-34abd369a79f)
+
 
 
 
